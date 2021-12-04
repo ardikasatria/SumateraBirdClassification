@@ -1,1 +1,15 @@
-# SumateraBirdClassification
+# Sumatera Bird Classification
+Telah dilakukan identifikasi suara Burung di Pulau Sumatera dengan menerapkan Transfer Learning pada Deep Neural Network. Adapun Model yang digunakan adalah Resnet50, VGG-16, dan EfficientNet B4. Data yang digunakan bersumber dari platform XenoCanto yang merupakan platform suara Burung Sedunia. Digunakan 13 spesies Burung yang ditemukan di Region Pulau Sumatera adalah sebagai berikut:
+1. White-bellied Woodpecker (Dryocopus javensis)
+2. Large-tailed Nightjar (Caprimulgus macrurus)
+3. Pygmy Cupwing (Pnoepyga pusilla)
+4. Rufous-tailed Tailorbird (Orthotomus sericeus)
+5. Horsfield's Babbler (Malacocincla sepiaria)
+6. Sooty-capped Babbler (Malacopteron affine)
+7. Mangrove Whistler (Pachycephala cinerea)
+8. Slender-billed Crow (Corvus enca)
+9. Rufous-browed Flycatcher (Anthipes solitaris)
+10. Black-winged Kite (Elanus caeruleus)
+11. Oriental Pied Hornbill (Anthracoceros albirostris)
+12. Arctic Warbler (Phylloscopus borealis)
+13. Pin-striped Tit-Babbler (Macronus gularis)
