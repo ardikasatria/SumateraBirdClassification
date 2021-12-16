@@ -10,7 +10,7 @@ Data yang digunakan bersumber dari platform XenoCanto yang merupakan platform su
 
 13 spesies Burung yang ditemukan di Region Pulau Sumatera dengan kelimpahan data lebih dari 50 file dan kualitas audio paling baik adalah:
 1. White-bellied Woodpecker (_Dryocopus javensis_)
-![Drycopus javensis][<iframe width="320" height="342" src="https://macaulaylibrary.org/asset/268676931/embed/640" frameborder="0" allowfullscreen style="width:640px;"></iframe>]
+![Drycopus javensis][https://macaulaylibrary.org/asset/268676931/embed/6320]
 
 2. Large-tailed Nightjar (_Caprimulgus macrurus_)
 3. Pygmy Cupwing (_Pnoepyga pusilla_)
