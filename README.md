@@ -17,7 +17,7 @@ Data yang digunakan bersumber dari platform XenoCanto yang merupakan platform su
 6. Sooty-capped Babbler (_Malacopteron affine_)
 7. Mangrove Whistler (_Pachycephala cinerea_)
 8. Slender-billed Crow (_Corvus enca_)
-9. Rufous-browed Flycatcher (_Anthipes solitaris_)
+9. ![anthipes solitaris](https://github.com/ardikasatria/SumateraBirdClassification/blob/main/Images/Anthipes%20solitaris.jfif) Rufous-browed Flycatcher (_Anthipes solitaris_)
 10. Black-winged Kite (_Elanus caeruleus_)
 11. Oriental Pied Hornbill (_Anthracoceros albirostris_)
 12. Arctic Warbler (_Phylloscopus borealis_)
